@@ -1,1 +1,0 @@
-# blectf_presentation
